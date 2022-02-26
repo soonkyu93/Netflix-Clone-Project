@@ -2,7 +2,7 @@
 
 ## 🔗 Demo
 
-https://netflix-gw.netlify.app
+
 
 ## 🖥 Preview
 
