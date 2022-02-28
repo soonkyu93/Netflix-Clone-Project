@@ -50,12 +50,10 @@ netflix-clone-project-hazel.vercel.app
 - [x] React Context
 - [x] Axios
 - [x] Ajax
-- [x] Typescript
 - [x] Styled Components
 
 ## 📖 Theory
 
-- [x] React + Typescript
 - [x] Routing in React
 - [x] Styles in React
 - [x] Classes
