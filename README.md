@@ -1,7 +1,7 @@
 # Netflix-Clone
 
 ## 🔗 Demo
-
+netflix-clone-project-hazel.vercel.app
 
 
 ## 🖥 Preview
